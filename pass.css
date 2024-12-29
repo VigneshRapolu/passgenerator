@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+}
+#password{
+    
+    height: 40px;
+    width: 260px;
+    border: 2px solid #fff; 
+}
+.h1{
+    margin: 220px 0px 0px 200px;
+}
+body{
+    background-color: #002339;
+    color: #fff;
+    
+}
+#p{
+    color: goldenrod;
+    margin-top: 20px;
+    margin-left: 220px;
+    
+    padding-bottom: 7px;
+}
+#p1{
+    margin-left: 220px;
+}
+#p span{
+    border-bottom: 4px solid #019f55;
+}
+.container{
+    display: flex;
+    
+    margin-left: 220px;
+    margin-top: 2%;
+    
+    
+}
+#password{
+    border-radius: 3px;
+}
+button{
+    border: 1px solid blue;
+    height: 35px;
+    width: 15%;
+    margin: 10px 0px 0px 220px;
+    background-color: green;
+    color: #fff;
+    font-family: sans-serif;
+    border-top-right-radius: 5px;
+}
+#bolt{
+    color: white;
+}
